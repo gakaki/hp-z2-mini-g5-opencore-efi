@@ -1,0 +1,1 @@
+# hp-z2-mini-g5-opencore-efi
